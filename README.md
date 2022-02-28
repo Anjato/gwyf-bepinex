@@ -1,5 +1,5 @@
 # Golf With Your Friends - Cheat :)
-This is a cheat menu using BepInEx 6 (https://builds.bepinex.dev/projects/bepinex_be.
+This is a cheat menu using BepInEx 6 (https://builds.bepinex.dev/projects/bepinex_be
 
 
 ## Features
@@ -13,4 +13,4 @@ This is a cheat menu using BepInEx 6 (https://builds.bepinex.dev/projects/bepine
 
 ## Notes
 SessionInfo.Password = md5 hashed passwords
-- Can use https://md5.j4ck.com/1 (or whatever you want) to lookup hashes.
+- Can use https://md5.j4ck.com/1 (or whatever you want) to lookup hashes

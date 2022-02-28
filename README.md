@@ -13,4 +13,5 @@ This is a cheat menu using BepInEx 6 (https://builds.bepinex.dev/projects/bepine
 
 ## Notes
 SessionInfo.Password = md5 hashed passwords
+  
   Can use https://md5.j4ck.com/1 (whatever you want) to lookup hashes.

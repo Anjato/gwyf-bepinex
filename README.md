@@ -16,7 +16,7 @@ SessionInfo.Password = md5 hashed passwords
 - Can use https://md5.j4ck.com/1 (or whatever you want) to lookup hashes
 
 
-
+### Potential Hook Spot
 BallMovement.CheckForBallHit() <-- Hooks into
 
  static void Postfix(BallMovement __instance, ref User ___HitCounter)

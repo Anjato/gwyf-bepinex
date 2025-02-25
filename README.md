@@ -12,6 +12,8 @@ This is a cheat menu using [BepInEx 6](https://builds.bepinex.dev/projects/bepin
 
 
 ## Notes
+### RIP
+Code was lost for this project before it could be uploaded but the above features were implemented.
 
 ### Server Passwords
 SessionInfo.Password = md5 hashed passwords
